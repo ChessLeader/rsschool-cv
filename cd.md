@@ -50,5 +50,13 @@ Ukrainian
 
 #### *Mariupol technical college*
 1999-2003
+**************
+
+### **Code example:**
+
+```
+ function reverseWords(str) {
+  return  str.split(' ').map(i => i.split('').reverse().join('')).join(' ')
+}
 
 
