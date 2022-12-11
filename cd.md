@@ -47,3 +47,8 @@ Ukrainian
 **************
 
 ### **Edukation**
+
+#### *Mariupol technical college*
+1999-2003
+
+
